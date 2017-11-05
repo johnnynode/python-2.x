@@ -31,7 +31,7 @@ c = a//b
 print "7 - c 的值为：", c
 
 """
-$ python Basic/operators.py
+$ python Basic/operators-1.py
 1 -c 的值为： 31
 2 - c 的值为：  11
 3 -c 的值为： 210
