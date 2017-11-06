@@ -2,7 +2,7 @@
 
 var = 1
 while var == 1:
-    var = 0
+    # var = 0
     num = raw_input("Enter a num :")
     print "You entered: ", num
 
