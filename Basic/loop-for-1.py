@@ -10,7 +10,7 @@ for fruit in fruits:
 print "Good bye!"
 
 """
-$ python Basic/for-1.py
+$ python Basic/loop-for-1.py
 当前字母 ： P
 当前字母 ： y
 当前字母 ： t

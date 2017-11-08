@@ -7,7 +7,7 @@ for index in range(len(fruits)):
 print "Good bye!"
 
 """
-$ python Basic/for-2.py
+$ python Basic/loop-for-2.py
 当前水果 ： banana
 当前水果 ： apple
 当前水果 ： mango

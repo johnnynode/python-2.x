@@ -10,7 +10,7 @@ for num in range(10, 20):
         print num, '是一个质数'
 
 """
-$ python Basic/for-3.py
+$ python Basic/loop-for-3.py
 10 等于 2 * 5
 11 是一个质数
 12 等于 2 * 6
