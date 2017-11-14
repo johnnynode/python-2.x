@@ -19,5 +19,4 @@ This is two
 {'dept': 'sales', 'code': 6734, 'name': 'johnny'}
 ['dept', 'code', 'name']
 ['sales', 6734, 'johnny']
-
 """
