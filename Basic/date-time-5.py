@@ -4,7 +4,7 @@ import calendar
 
 cal = calendar.month(2017,1)
 print "以下输入2016年1月份的日历："
-print cal;
+print cal
 
 """
 $ python Basic/date-time-5.py
